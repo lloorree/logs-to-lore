@@ -1,0 +1,7 @@
+.idea/
+*.xml
+*.iml
+*.trash
+venv/
+*.json
+*.jsonl
